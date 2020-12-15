@@ -1,0 +1,22 @@
+shiny gold bags contain 5 mirrored crimson bags, 5 mirrored tan bags, 5 drab green bags, 5 shiny silver bags.
+mirrored tan bags contain 2 dark black bags, 4 clear green bags, 2 bright cyan bags, 4 faded bronze bags.
+dark black bags contain 3 vibrant gray bags, 1 faded bronze bag, 2 faded gold bags.
+bright cyan bags contain 4 clear lavender bags, 4 drab green bags, 1 striped tan bag.
+faded bronze bags contain 5 dim teal bags.
+vibrant gray bags contain 3 drab green bags, 5 faded bronze bags.
+faded gold bags contain 3 mirrored gray bags, 4 dotted cyan bags, 5 mirrored red bags, 4 shiny silver bags.
+dotted cyan bags contain 5 mirrored gray bags, 2 dull silver bags.
+mirrored red bags contain 5 dotted cyan bags, 2 dull brown bags.
+dull silver bags contain 2 bright cyan bags, 3 clear green bags.
+dull brown bags contain 5 vibrant turquoise bags, 3 faded bronze bags, 3 striped tan bags, 4 dim gold bags.
+vibrant turquoise bags contain 1 posh lavender bag.
+dim gold bags contain 3 posh lavender bags, 4 drab green bags, 4 dim teal bags.
+posh lavender bags contain 2 mirrored gray bags, 3 clear green bags, 5 dim teal bags.
+mirrored crimson bags contain no other bags.
+drab green bags contain no other bags.
+shiny silver bags contain no other bags.
+clear green bags contain no other bags.
+clear lavender bags contain no other bags.
+striped tan bags contain no other bags.
+dim teal bags contain no other bags.
+mirrored gray bags contain no other bags.

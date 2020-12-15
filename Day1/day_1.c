@@ -1,39 +1,3 @@
-/*
- * Day 1:
- * 
- * First Part:
- * Find two numbers in the list of given numbers that add up to '2020'.
- * The function should return the multication of these two numbers.
- * Example:
- * 
- * The list of given numbers is -
- * 1721
- * 979
- * 366
- * 299
- * 675
- * 1456
- * In this list, the two entries that sum to 2020 are 1721 and 299.
- * Multiplying them together produces 1721 * 299 = 514579, so the
- * correct answer is 514579.
- * 
- * Second Part:
- * Find three numbers that do the same thing, so if the list is the same
- * one as above the numbers will be: 979, 366, and 675.
- * Multiplying them together produces the answer: 241861950.
- */
-
-
-/*
- * My idea to solve it is to first get all the numbers into an array by
- * reading them from a file.
- * Than I will sort the numbers O(nlog(n)).
- * For the first part I will go from the beggining of the array and the
- * end of the array looking for the two numbers.
- * Fot the second part I will go from the beggining of the array and will
- * use the function of the first part to find other two numbers that
- * equal the total sum minus the number I am currently on.
- */
 
 #include <stdio.h>
 #include <stdlib.h>
